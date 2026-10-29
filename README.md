@@ -18,7 +18,7 @@ My technical level is beginner. I use AI tools to help develop solutions, and I 
 - Develop a portfolio of documented projects, with evidence of testing and outcomes.
 - Work towards recognised Microsoft AI and data certifications (planned, not yet obtained).
 
-## Learning plan (planned, in progress)
+## Learning plan (in progress)
 
 - LinkedIn Learning
 - Microsoft Learn
@@ -55,4 +55,3 @@ I plan to start with one small MVP before adding more. Scope, test cases and lim
 | Date | Update |
 |---|---|
 | August 2026 | Repository created with learning goals and project ideas |
-| | *(add dated entries here as work is completed)* |
